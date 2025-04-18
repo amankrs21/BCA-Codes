@@ -1,0 +1,139 @@
+body
+{
+	background-color: black;
+}
+.page
+{
+	background-color: white;
+	border-style: solid;
+	height: auto;
+	width: 500px;
+	margin: 0 auto;
+	border-radius: 20px;
+	border-color: cyan;
+}
+.header
+{
+	height: 60px;
+	width: 483px;
+	margin: 5px auto;
+	background-color: orange;
+	border-style: solid;
+}
+.logo
+{
+	height: 50px;
+	width: 70px;
+	float: left;
+	border-style: solid;
+	border-color: cyan;
+	margin: 3px;
+}
+.logotext
+{
+	
+	float: left;
+
+}
+.logotext h2
+{
+	font-size: 30px;
+	font-family: times of roman;
+	color: red;
+	margin-left: 60px;
+	margin-top: 13px;
+}
+.menu
+{
+	height: 40px;
+	width: 483px;
+	border-style: solid;
+	margin: 5px;
+	background-color: red;
+}
+.menu ul li
+{
+	float: left;
+	margin-left: 60px;
+	margin-top: -5px;
+	list-style: none;
+}
+.menu ul li a
+{
+	text-decoration: none;
+	color: green;
+}
+.menu  ul li a:hover
+{
+	text-decoration: underline;
+	color: yellow;
+}
+.slider
+{
+	height: 200px;
+	width: 483px;
+	border-style: solid;
+	margin: 5px;
+	background-color: cyan;
+}
+.content
+{
+	height: 200px;
+	width: 483px;
+	border-style: solid;
+	margin: 5px;
+	background-color: blue;
+}
+.left
+{
+	height: 185px;
+	width: 100px;
+	border-style: solid;
+	margin: 5px;
+	background-color: green;
+	float: left;
+}
+.left ul li
+{
+	font-size: 18px;
+	margin-right: 100px;
+	margin-top: 20px;
+	list-style: none;
+	margin-left: -29px;
+}
+.left ul li a
+{
+	text-decoration: none;
+	color: blue;
+}
+.left  ul li a:hover
+{
+	text-decoration: underline;
+	color: red;
+}
+.right
+{
+	height: 185px;
+	width: 350px;
+	border-style: solid;
+	margin: 5px;
+	background-color: skyblue;
+	float: left;
+}
+.right p
+{
+	text-align: justify-all;
+}
+.footer
+{
+	height: 40px;
+	width: 483px;
+	border-style: solid;
+	margin: 5px;
+	background-color: orange;
+}
+.footer p
+{
+	text-align: center;
+	margin-top: 13px;
+}

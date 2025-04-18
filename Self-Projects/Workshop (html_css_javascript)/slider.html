@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>slider</title>
+<script>
+	var images=["images6.jpg","images5.jpg","images7.jpg","images8.jpg"];
+	var i=0;
+	function mySlider()
+	{
+		document.getElementById('slid').src=images[i];
+		if(i<images.length-1)
+		{
+			i++;
+		}
+		else
+		{
+			i=0;
+		}
+		setTimeout("mySlider()",1500);
+	}
+</script>
+</head>
+<body>
+	<div style="margin-left:350px;margin-top:50px;">
+	<img src="" id="slid" width="400px" height="180px" alt="" />
+	<script>
+		mySlider();
+		</script>
+	</div>
+</body>
+</html>
