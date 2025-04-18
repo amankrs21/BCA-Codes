@@ -1,0 +1,1 @@
+-- 5.	PL/SQL Program to Print Table of a Number.

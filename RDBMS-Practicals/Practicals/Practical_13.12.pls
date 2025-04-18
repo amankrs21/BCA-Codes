@@ -1,0 +1,1 @@
+-- 12.	PL/SQL Program for Armstrong Number

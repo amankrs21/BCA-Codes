@@ -1,0 +1,1 @@
+-- 4.	PL/SQL Program To Find Factorial of a Number.

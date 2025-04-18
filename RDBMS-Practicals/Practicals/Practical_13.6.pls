@@ -1,0 +1,1 @@
+-- 6.	PL/SQL Program for Reverse of a Number

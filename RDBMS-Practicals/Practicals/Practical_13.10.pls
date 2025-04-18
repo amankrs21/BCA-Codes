@@ -1,0 +1,1 @@
+-- 10.	Pl/SQL Program for Palindrome Number
