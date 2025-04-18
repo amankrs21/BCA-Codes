@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<studentinformation>
+  <student>
+    <id>1</id>
+    <name>Anchal</name>
+    <eno>101</eno>
+  </student>
+  <student>
+    <id>2</id>
+    <name>Ashish</name>
+    <eno>102</eno>
+  </student>
+  <student>
+    <id>3</id>
+    <name>Shreyas</name>
+    <eno>103</eno>
+  </student>
+</studentinformation>
