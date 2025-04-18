@@ -1,0 +1,7 @@
+clear
+echo "\n Enter value of x : "
+read x
+
+result=`expr 1 + $x + $x \* $x + $x \* $x \* $x + $x \* $x \* $x \* $x`
+
+echo "\n Value of 1+x+x^2+x^3+x^4 is - $result" 
